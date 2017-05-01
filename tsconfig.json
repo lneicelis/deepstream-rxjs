@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "outDir": "lib",
+    "allowJs": false,
+    "target": "es6"
+  },
+  "exclude": [
+    "tests",
+    "node_modules",
+    "lib"
+  ]
+}
